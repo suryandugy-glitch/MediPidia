@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 MediShelf
+# 🏥 MediPidia
 
 ### *Your Health, At a Glance.*
 
