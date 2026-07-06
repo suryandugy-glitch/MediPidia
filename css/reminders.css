@@ -1,0 +1,23 @@
+
+  .reminder:hover
+
+
+  .reminder.done
+
+
+  .reminder.done .r-name
+
+
+  .r-check
+
+
+  .r-check.checked
+
+
+  .r-check.checked::after
+
+
+  .r-name
+
+
+  .r-time

@@ -1,0 +1,377 @@
+/* ---------- THEME TOKENS ---------- */
+  :root[data-theme="light"]
+
+
+  :root[data-theme="dark"]
+
+
+  :root
+
+
+  *
+
+
+  html,body
+
+
+  html
+
+
+  body
+
+
+  /* Animated ambient blobs */
+  .ambient
+
+
+  .blob
+
+
+  .blob.a
+
+
+  .blob.b
+
+
+  .blob.c
+
+
+  @keyframes drift
+
+
+    50%  
+
+
+    100% 
+
+
+  }
+  h1,h2,h3,.display
+
+
+  .mono
+
+
+  .app
+
+
+  /* ---------- GLASS SURFACE ---------- */
+  .glass
+
+
+  /* ---------- SIDEBAR ---------- */
+  .sidebar
+
+
+  .brand
+
+
+  .brand-mark
+
+
+  .brand-mark::before, .brand-mark::after
+
+
+  .brand-mark::before
+
+
+  .brand-mark::after
+
+
+  .brand-name
+
+
+  .nav-pill
+
+
+  .nav-pill:hover
+
+
+  .nav-pill.active
+
+
+  :root[data-theme="dark"] .nav-pill.active
+
+
+  .nav-pill .tag
+
+
+  .nav-pill.active .tag
+
+
+  .nav-icon
+
+
+  .sidebar-foot
+
+
+  .theme-toggle
+
+
+  .theme-toggle:hover
+
+
+  .theme-toggle .label
+
+
+  .switch
+
+
+  .switch::after
+
+
+  :root[data-theme="dark"] .switch
+
+
+  :root[data-theme="dark"] .switch::after
+
+
+  /* ---------- MAIN ---------- */
+  .main
+
+
+  .section
+
+
+  .section.active
+
+
+  @keyframes fadeUp
+
+
+    to  
+
+
+  }
+  .page-head
+
+
+  .eyebrow
+
+
+  .page-title
+
+
+  .page-sub
+
+
+  /* ---------- CARD (glass) ---------- */
+  .card
+
+
+  .card.hover:hover
+
+
+  input, select, textarea
+
+
+  input:focus, select:focus, textarea:focus
+
+
+  label
+
+
+  ::placeholder
+
+
+  button
+
+
+  .btn
+
+
+  .btn:active
+
+
+  .btn-primary
+
+
+  :root[data-theme="dark"] .btn-primary
+
+
+  .btn-primary:hover
+
+
+  .btn-amber
+
+
+  :root[data-theme="dark"] .btn-amber
+
+
+  .btn-amber:hover
+
+
+  .btn-ghost
+
+
+  .btn-ghost:hover
+
+
+  .btn-sm
+
+
+  .search-row
+
+
+  .search-row input
+
+
+  /* ---------- DASHBOARD ---------- */
+  .stats-grid
+
+
+  .quick-action
+
+
+  .quick-action:hover
+
+
+  .quick-action .qa-icon
+
+
+  .quick-action .qa-icon svg
+
+
+  .quick-action .qa-title
+
+
+  .quick-action .qa-sub
+
+
+  /* Metric ring */
+  .metric-ring
+
+
+  /* ---------- MEDIPEDIA ---------- */
+  .med-grid
+
+
+  .med-tag > *
+
+
+  :root[data-theme="dark"] .comp-strip
+
+
+  /* ---------- PHARMACY ---------- */
+  .rx-grid
+
+
+  .qty-stepper button
+
+
+  .qty-stepper button:hover
+
+
+  /* ---------- DOCTOR ---------- */
+  .doc-grid
+
+
+  .doc-actions .btn
+
+
+  .spec-badge
+
+
+  .spec-badge svg
+
+
+  .appt-list .card
+
+
+  /* ---------- HEALTH RECORD ---------- */
+  .hr-grid
+
+
+  .chip button
+
+
+  /* Vitals log */
+  .vitals-grid
+
+
+  /* ---------- REMINDERS ---------- */
+  .reminder
+
+
+  .r-body
+
+
+  /* ---------- NOTIFICATIONS ---------- */
+  .notif-btn
+
+
+  .notif-btn:hover
+
+
+  .notif-btn svg
+
+
+  .notif-dot
+
+
+  .notif-panel
+
+
+  .notif-panel.open
+
+
+  .notif-item
+
+
+  .notif-item .n-title
+
+
+  .notif-item .n-time
+
+
+  .header-bar
+
+
+  /* ---------- TOAST ---------- */
+  .toast
+
+
+  :root[data-theme="dark"] .toast
+
+
+  .toast.show
+
+
+  .empty-illustration
+
+
+  .empty-illustration svg
+
+
+  .empty-illustration span
+
+
+  .empty-illustration.small svg
+
+
+  .empty-illustration.small
+
+
+  .cat-icon
+
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 960px)
+
+
+    .sidebar
+
+
+    .brand
+
+
+    .sidebar-foot, .theme-toggle
+
+
+    .theme-toggle.mobile
+
+
+    .nav-pill
+
+
+    .main
