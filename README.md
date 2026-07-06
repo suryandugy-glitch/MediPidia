@@ -17,7 +17,7 @@ A modern **Healthcare Management Web Application** that simplifies medicine mana
 
 <br>
 
-<a href="[http://medipidia.com/">
+<a href="[https://suryandugy-glitch.github.io/MediPidia/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-0A66C2?style=for-the-badge">
 </a>
 
