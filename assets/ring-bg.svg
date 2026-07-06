@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64">
+                  <circle class="ring-bg" cx="32" cy="32" r="26" fill="none" stroke-width="6"/>
+                  <circle class="ring-fg" id="ring-fg" cx="32" cy="32" r="26" fill="none" stroke-width="6"
+                          stroke-dasharray="163.36" stroke-dashoffset="163.36" stroke-linecap="round"/>
+                </svg>
